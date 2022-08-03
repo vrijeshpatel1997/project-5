@@ -1,0 +1,67 @@
+body{
+
+
+    background-color: rgb(51, 38, 2);
+}
+
+nav a{
+
+    color: white;
+   text-decoration: none;
+ padding-left: 25px;
+ position: relative;
+ left: 40%;
+
+ flex: 2;
+
+
+}
+
+nav button{
+
+    position: relative;
+    left: 50%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+padding-bottom: 10px;    
+background-color: transparent;
+color: rgb(190, 150, 39);
+border-color: rgb(228, 187, 74);
+border-radius: 10px;
+   
+
+    
+}
+.logo{
+
+    margin-left: 45px;
+
+    
+}
+h1{
+
+    color: white;
+    font-size: 75px;
+    width: 550px;
+    margin-left: 75px;
+    
+}
+
+p{
+
+
+    color: white;
+    width: 395px;
+    margin-left: 60%;
+    margin-top: -10%;
+    font-size: 25px;
+
+
+}
+
+.law{
+
+    height: 400px;
+    margin-left: -200px;
+}
